@@ -1,4 +1,4 @@
-- title: DSAIB
+- title: DSAIB-IllicitTrade
   year: 2025
   id: dsaib25
   link: https://icpram.scitevents.org/DSAIB-IllicitTrade.aspx
@@ -9,7 +9,7 @@
   start: 2025-02-23
   end: 2025-02-25
   sub: ['ML', 'DM', 'KR']
-  note: All submissions must be done through https://icpram.scitevents.org/DSAIB-IllicitTrade.aspx
+  note: Workshop on Data Science, AI, and Blockchain Solutions for Combating Illicit Trade - DSAIB-IllicitTrade 2025
 
 - title: NAACL
   year: 2025
