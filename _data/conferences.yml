@@ -1,3 +1,17 @@
+- title: DSAIB
+  year: 2025
+  id: dsaib25
+  link: https://icpram.scitevents.org/DSAIB-IllicitTrade.aspx
+  deadline: '2024-11-15 23:59:59'
+  timezone: UTC+2
+  place: Porto, Portugal
+  date: February 23 - 25, 2025
+  start: 2025-02-23
+  end: 2025-02-25
+  hindex: X
+  sub: ['ML', 'DM', 'KR']
+  note: All submissions must be done through https://icpram.scitevents.org/DSAIB-IllicitTrade.aspx
+
 - title: NAACL
   year: 2025
   id: naacl25
